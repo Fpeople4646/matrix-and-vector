@@ -1,8 +1,3 @@
-//nama =Fatur Rahman
-//Prodi = D3Tk
-//NIM = 13322024
-
-
 #include<stdio.h>
 #include<stdlib.h>
 
